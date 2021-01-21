@@ -1,25 +1,22 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/kunoa.png
+title: Kunoa Cattle Co.
+permalink: projects/Kunoa
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-09-31
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Marketing Research and Analysis
+  - Data Collection
+  - Data Analysis
+  - Team leadership
+summary: Conducted marketing research and an analysis for joint owners of Kunoa Cattle Co. Done in MKT 331
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+Kunoa Cattle Company is a cattle company local to Hawaii. They do everything from raising cattle to producing end products on store shelves. 
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+For this project, my team and I worked through a semester long project trying to find a weakness in Kunoa Cattle Co's market. From branding to company image, the company was inspected from head to toe. My role in this particular project was data analysis of survey data we gathered through qualtrics and random sampling. As the one in charge of data analysis, excel became my best friend during the project. Comparing the numbers and finding trends through the data all to find that one area of improvement was the goal. Once all the numbers were compiled and ready to be put forth, we took our findings to present to the joint owners of the company. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+I've picked up a few valuable skills while working with my team. Pressing for deadlines and having precision time management is an invaluable skill. Without it, quotas and end results will not be met. Secondly, leadership and soft skills to work with others. Trying to lead a team is a tricky job. Everyone has their own agenda and problems they're currently facing, but being compassionate yet goal oriented can go a long way and produce amazing results.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
