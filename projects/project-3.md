@@ -1,61 +1,21 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/rainbow.png
+title: Rainbow Drive-In
+permalink: projects/Rainbow
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-3-21
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Marketing
+  - Data Analysis
+summary: Marketing data analysis done in MKT 381
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+Rainbow Drive-In is a locally own buisness in Hawaii which caters towards tourist visiting the islands. 
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This project was done by students at University of Hawaii at Manoa to find innovative ways to improve the customer experience. We were approached with the problem of lack of orginality at our iconic tourist destination. To combat this, we were given tourism data which included spending, and trends then asked to come up with new ways to improve the image of Rainbow Drive-In. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+My role in this project was to gather records and formulate a common trend with customer spending habits. Using excel and sales records from Rainbow Drive-In, I was tasked to find ways to reduce the cost for the company. By reducing the total cost for the company in their menu, The company could then reallocate resources into new ideas. The summary of my findings is that there was a lot of money wasted on items that weren't being sold at a high volume. So, my recommendation was to either cut those items out of the menu or to alter them to appeal to the consumers.
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+A major takeway from this project is learning how to read financial records and draw a conclusion from them. Working with those records is, to a certain extent, confidential so having the right wording while presenting the data is crucial. The wording can affect your liability and may hinder the end result.
