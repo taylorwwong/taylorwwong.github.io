@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/kunoa.png
 title: Kunoa Cattle Co.
-permalink: projects/Kunoa
+permalink: projects/kunoa
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-31
 labels:
