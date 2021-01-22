@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/rainbow.png
+image: images/rainbows.png
 title: Rainbow Drive-In
 permalink: projects/rainbow
 # All dates must be YYYY-MM-DD format!
