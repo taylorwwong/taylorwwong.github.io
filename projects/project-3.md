@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/rainbow.png
 title: Rainbow Drive-In
-permalink: projects/Rainbow
+permalink: projects/rainbow
 # All dates must be YYYY-MM-DD format!
 date: 2019-3-21
 labels:
