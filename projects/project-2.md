@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/kunoa.png
 title: Kunoa Cattle Co.
-permalink: projects/kunoa
+permalink: projects/kunoacattle
 # All dates must be YYYY-MM-DD format!
-date: 2018-09-31
+date: 2018-09-30
 labels:
   - Marketing Research and Analysis
   - Data Collection
