@@ -5,7 +5,7 @@ image: images/rainbow.png
 title: Rainbow Drive-In
 permalink: projects/rainbow
 # All dates must be YYYY-MM-DD format!
-date: 2019-3-21
+date: 2019-03-21
 labels:
   - Marketing
   - Data Analysis
