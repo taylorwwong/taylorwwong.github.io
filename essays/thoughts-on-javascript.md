@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+image: images/javasscript.png
 title: Thoughts on Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
