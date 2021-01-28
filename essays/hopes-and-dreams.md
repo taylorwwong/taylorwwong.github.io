@@ -1,3 +1,16 @@
+---
+layout: essay
+type: essay
+title: Hopes and Dreams
+# All dates must be YYYY-MM-DD format!
+date: 2021-01-27
+labels:
+  - Javascript
+  - Learning
+---
+
+<img class="ui medium right floated rounded image" src="../images/javasscript.png">
+
 
 ## Where I currently am
 
