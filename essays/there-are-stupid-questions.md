@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: There are Stupid Questions
+# All dates must be YYYY-MM-DD format!
+date: 2021-01-27
+labels:
+  - Learning
+  - StackOverflow
+---
 
 ## The smart way
 ### "ImportError: cannot import name 'DEFAULT_STATIC_FILES_PATH' when trying to run Jupyter lab"
