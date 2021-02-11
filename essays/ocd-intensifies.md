@@ -1,4 +1,13 @@
-
+---
+layout: essay
+type: essay
+title: OCD Intensifies
+# All dates must be YYYY-MM-DD format!
+date: 2021-02-11
+labels:
+  - Learning
+  - Coding Standards
+---
 ## OCD Intensifies 
 
 ### I love the coding standards
