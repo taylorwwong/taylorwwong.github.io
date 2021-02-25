@@ -10,6 +10,9 @@ labels:
 ---
 ## HTML for Lazy Bums
 
+<img class="ui medium right floated rounded image" src="../images/semantic.png">
+
+
 ### What UI frameworks are
 Basically, UI frameworks are a god sent gift from some guy who's leagues above what I can currently do. The creator of a UI must feel sorry for the plebians struggling at simple html and css. Or perhaps they were a like minded person who didn't want to sit there formatting for hours. 
 
