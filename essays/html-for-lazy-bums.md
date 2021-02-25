@@ -1,4 +1,13 @@
-
+---
+layout: essay
+type: essay
+title: HTML for Lazy Bums
+# All dates must be YYYY-MM-DD format!
+date: 2021-02-24
+labels:
+  - HTML
+  - Semantic UI
+---
 ## HTML for Lazy Bums
 
 ### What UI frameworks are
